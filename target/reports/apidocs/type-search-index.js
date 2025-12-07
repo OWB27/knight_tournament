@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.mycompany.knighttournament","l":"Board"},{"p":"com.mycompany.knighttournament","l":"Board.Cell"},{"p":"com.mycompany.knighttournament","l":"GUI"},{"p":"com.mycompany.knighttournament","l":"KnightTournament"}];updateSearchResults();

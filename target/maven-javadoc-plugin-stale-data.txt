@@ -1,0 +1,43 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+--release
+24
+-sourcepath
+'C:/Users/12251/Documents/NetBeansProjects/KnightTournament/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/12251/Documents/NetBeansProjects/KnightTournament/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'KnightTournament 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'KnightTournament 1.0-SNAPSHOT API'
+com.mycompany.knighttournament
+C:\Users\12251\Documents\NetBeansProjects\KnightTournament\src\main\java = 1762822289181
+C:\Users\12251\Documents\NetBeansProjects\KnightTournament\target\reports\apidocs\allclasses-index.html = 1763003371647
+C:\Users\12251\Documents\NetBeansProjects\KnightTournament\target\reports\apidocs\allpackages-index.html = 1763003371650
+C:\Users\12251\Documents\NetBeansProjects\KnightTournament\target\reports\apidocs\element-list = 1763003371538
+C:\Users\12251\Documents\NetBeansProjects\KnightTournament\target\reports\apidocs\help-doc.html = 1763003371685
+C:\Users\12251\Documents\NetBeansProjects\KnightTournament\target\reports\apidocs\index-all.html = 1763003371674
+C:\Users\12251\Documents\NetBeansProjects\KnightTournament\target\reports\apidocs\index.html = 1763003371680
+C:\Users\12251\Documents\NetBeansProjects\KnightTournament\target\reports\apidocs\member-search-index.js = 1763003371657
+C:\Users\12251\Documents\NetBeansProjects\KnightTournament\target\reports\apidocs\module-search-index.js = 1763003371652
+C:\Users\12251\Documents\NetBeansProjects\KnightTournament\target\reports\apidocs\overview-tree.html = 1763003371623
+C:\Users\12251\Documents\NetBeansProjects\KnightTournament\target\reports\apidocs\package-search-index.js = 1763003371654
+C:\Users\12251\Documents\NetBeansProjects\KnightTournament\target\reports\apidocs\search.html = 1763003371677
+C:\Users\12251\Documents\NetBeansProjects\KnightTournament\target\reports\apidocs\serialized-form.html = 1763003371582
+C:\Users\12251\Documents\NetBeansProjects\KnightTournament\target\reports\apidocs\tag-search-index.js = 1763003371659
+C:\Users\12251\Documents\NetBeansProjects\KnightTournament\target\reports\apidocs\type-search-index.js = 1763003371655
